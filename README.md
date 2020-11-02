@@ -1,34 +1,52 @@
-# ReactJS - Convertendo um template HTML para JSX. 
+<h3 align="center">
+  Site Estático ReactJS 🚀
+</h3>
 
-## Atualização: 27 de fevereiro de 2019 - 18:59
-## Criação: 22 de fevereiro de 2019
-## Prática : @douglasabnovato
+---
+<br>
 
-Introdução : durante esse projeto será abordado os itens props, rotas, navegação (por link), componentes.
+![Resultado da Aplicação](/images/a-aplicacao-terminada.jpg)
 
-Aula 1. conhecendo o projeto.
-1. utilizando um template do site w3schools em HTML para transformar em uma aplicação estática em ReactJS.
+### O que é a aplicação
 
-Aula 2. convertendo HTML em JSX.
+- Uma site estático a partir de um template do w3schools em reactjs.
 
-Aula 3. ajustes finais no nosso projeto.
+#### Tecnologias/ Ferramentas/ Bibliotecas
 
-Aula 4. criando o componente Rodapé.
+- HTML/Javascript: estrutura e efeitos
+- CSS: posicionamento, dimensionamento e muito mais.
+- ReactJS: os fundamentos, como state, props, components, ciclo de vida.
 
-Aula 5. criando o componente Cabeçalho.
+#### Código + Dependências
 
-Aula 6. criando o componente Início.
+- git clone "http": ter o projeto na máquina local
+- npm install 
+- Rodar a aplicação: `npm start`
 
-Aula 7. criando o componente Serviços.
+#### Passo a passo do projeto 
 
-Aula 8. criando as rotas.
+- [x] 1. conhecendo o projeto: utilizando um template do site w3schools em HTML para transformar em uma aplicação estática em ReactJS.
+- [x] 2. convertendo HTML em JSX.
+- [x] 3. ajustes finais no nosso projeto.
+- [x] 4. criando o componente Rodapé.
+- [x] 5. criando o componente Cabeçalho.
+- [x] 6. criando o componente Início.
+- [x] 7. criando o componente Serviços.
+- [x] 8. criando as rotas.
+- [x] 9. criando a navegação para as rotas.
+- [x] 10. criando o componente Portfólio.
+- [x] 11. criando o componente Preços.
+- [x] 12. criando o componente Contatos.
 
-Aula 9. criando a navegação para as rotas.
+#### Próximo passo na aplicação
 
-Aula 10. criando o componente Portfólio.
+- Link para o artigo da aplicação 
 
-Aula 11. criando o componente Preços.
+#### Anotações   
 
-Aula 12. criando o componente Contatos.
+- Fonte do projeto: [React : criando um site para empresas - Reginaldo Santos](https://www.youtube.com/watch?v=3I9xv-t42Q4)
 
-:. Por Youtube - Reginaldo Santos - React : criando um site para empresas, ep#1 até ep#12.
+---
+<br>
+
+.: Por [Douglas A B Novato](https://linktr.ee/douglasabnovato)
