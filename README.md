@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="SiteEstaticoReactJS" title="#SiteEstaticoReactJS" src="./assets/tela-1.jpg" />
+    <img alt="SiteEstaticoReactJS" title="#SiteEstaticoReactJS" src="./src/assets/tela-1.jpg" />
 </h1>
 
 <h4 align="center"> 
