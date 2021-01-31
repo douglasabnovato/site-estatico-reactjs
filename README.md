@@ -43,6 +43,10 @@ Uma aplicação web responsiva desenvolvida em reactjs com material design lite 
   <img alt="SiteEstaticoReactJS" title="#SiteEstaticoReactJS" src="./src/assets/tela-1.jpg" width="400px">
 </p>
 
+### Web - Próximo Passo 
+
+- deploy da aplicação
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -55,6 +59,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Github][github] 
 - [Yarn][yarn]
 - [Node.js][nodejs]
+- [Zeit Now](https://vercel.com/)
 
 ## 🚀 Como executar o projeto
 
@@ -119,4 +124,4 @@ Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript 
 
-Fonte - [React : criando um site para empresas - Reginaldo Santos](https://www.youtube.com/watch?v=3I9xv-t42Q4)
+Fonte - [React: criando um site para empresas - Reginaldo Santos](https://www.youtube.com/watch?v=3I9xv-t42Q4)
